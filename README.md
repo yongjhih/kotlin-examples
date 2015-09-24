@@ -1,4 +1,5 @@
-kotlin-examples
-===============
+# kotlin example
 
-Various examples for Kotlin
+```sh
+./gradlew test
+```
